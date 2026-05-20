@@ -1,0 +1,35 @@
+1. El nino, la nina.
+-> The boy, the girl.
+
+2. Un Hombre, Una mujer.
+-> A man, a woman.
+
+3. Om come manzanas.
+-> Om eats apple.
+
+4. Yo como manzanas.
+-> I eat apples.
+
+5. Tu comes manzanas.
+-> You eat apples.
+
+6. Tu comes manzanas?
+-> Do you eat apples?
+
+7. Yo soy un hombre.
+-> I am a man.
+
+8. Yo soy Om Shrestha.
+-> I am Om Shrestha.
+
+9. El es un nino.
+-> He is a boy.
+
+10. Ella es maria.
+-> She is maria.
+
+11. Tu eres Ana.
+-> You are Ana.
+
+12. Es ella.
+-> Its her.
