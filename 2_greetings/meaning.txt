@@ -1,0 +1,21 @@
+Hola -> Hello
+Adios -> Good bye
+Gracias -> Thank you, thanks
+Mucho gusto -> Nice to meet you
+De nada -> You're welcome
+Si -> Yes
+Lo siento -> I am sorry.
+Perdon -> Pardon
+Disculpe -> Excuse me
+hablo -> Speak
+Muy bien -> Very good.
+
+Buenos dias -> Good morning
+Buenas noches -> Good Night.
+
+Si, gracias -> Yes, Thankyou.
+No, gracias -> No, Thankyou.
+por favor, not -> Please, No.
+
+Ingles -> English
+Spanish -> Espanol

@@ -1,0 +1,16 @@
+1. Tu hablas ingles?
+-> Do you speak english.
+
+2. Yo hablo ingles, Muy bien.
+-> I speak english very well.
+
+3. Hola, hablas ingles?
+-> Hello, do you speak english.
+
+4. Si, Yo hablo ingles.
+-> Yes, I speak english.
+
+5. No, Lo siento. Yo hablo espanol.
+-> No sorry, I speak spanish.
+
+
