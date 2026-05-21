@@ -13,7 +13,7 @@ Es -> is
 Yo -> I, me, I'd
 Soy -> am, its
 Ella -> She's, she, Her.
-Tu -> You, You'll, you've
+Tu -> You, You'll, you've, your
 Eres -> are, you're, aren't being.
 
 nombre -> Name

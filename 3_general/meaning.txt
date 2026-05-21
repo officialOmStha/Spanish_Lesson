@@ -2,6 +2,12 @@ el telefon -> The phone
 la maleta -> The suitcase
 el pasaporte -> The passport
 el taxi -> The taxi
+el aeropuerto -> The airport
+el autobus -> the bus
+El dinero -> the money
+Boleto -> Ticket
+
+a -> to
 Mi -> My.
 Necesito -> need
 el Hotel -> The Hotel

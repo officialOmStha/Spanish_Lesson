@@ -1,0 +1,12 @@
+1. Donde esta el aeropuerto?
+-> Where is the airport?
+
+2. Donde esta tu pasaporte?
+-> Where is your passport?
+
+3. Yo necesito dinero.
+-> I need money.
+
+4. Yo tengo tu boleto a Madrid.
+-> I have your ticket to Madrid.
+
