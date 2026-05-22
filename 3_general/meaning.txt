@@ -6,7 +6,14 @@ el aeropuerto -> The airport
 el autobus -> the bus
 El dinero -> the money
 Boleto -> Ticket
+el bano -> The bathroom
+el museo -> the museum
+el banco -> the bank
+un supermercado -> A supermarket
 
+
+
+calle -> street, road
 a -> to
 Mi -> My.
 Necesito -> need
@@ -17,3 +24,4 @@ reserva -> reservation, booking
 en -> in the, on the
 esta -> is, it is, she is
 tengo -> have
+cerrado -> closed, narrow, tight

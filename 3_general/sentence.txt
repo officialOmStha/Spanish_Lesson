@@ -10,3 +10,5 @@
 4. Yo tengo tu boleto a Madrid.
 -> I have your ticket to Madrid.
 
+5. En el hospital.
+-> In the hospital.
