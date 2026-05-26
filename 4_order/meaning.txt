@@ -1,8 +1,27 @@
 las personas -> The people
 El restaurante -> The restaurent
 la mesa -> The table
+el pescado -> the fish
+la carne -> the maleta
+el queso -> the cheese
+la taza -> the cup
+el vaso -> the glass
+el jugo -> juice
+el azucar -> the sugar
+el cafe -> the coffee
+la naranja -> the range
+el tomate -> the tomato
+la sal -> the salt
+la ensalada -> the salad
+
 uno -> 1, one
 dos -> 2, two
 tres -> 3, three
 para -> for, with, is stopping
+con -> with
+de -> with 
+sin -> without
+o -> or
+pagar -> pay
+
 
