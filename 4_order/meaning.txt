@@ -1,0 +1,8 @@
+las personas -> The people
+El restaurante -> The restaurent
+la mesa -> The table
+uno -> 1, one
+dos -> 2, two
+tres -> 3, three
+para -> for, with, is stopping
+
