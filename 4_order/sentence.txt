@@ -1,0 +1,30 @@
+1. Un sandwich de queso.
+-> A chese sandwich.
+
+2. Una hamburgesa de pescado.
+-> A fish burger.
+
+3. Una taza de cafe, por favor.
+-> A cup of coffee, please.
+
+4. Un vaso de agua.
+-> One glass of water.
+
+5. Un jugo de naranga, por favor.
+-> A orange juice, please.
+
+6. Yo quiero pagar la cuenta.
+-> I want to pay the check.
+
+7. Un jugo de naranga.
+-> An orange juice.
+
+8. Un restaurante espanol.
+-> A Spanish restaurant.
+
+9. Una taza de cafe, Gracias.
+-> A cup of coffee, please.
+
+10. Si, Sin leche?
+-> Yes, Without milk?
+
