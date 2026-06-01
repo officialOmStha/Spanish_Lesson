@@ -1,0 +1,23 @@
+la camisa -> the shirt
+la camiseta -> the t-shirt
+la tienda -> the store
+la ropa -> the clothes
+el vestido -> the dress
+el sombrero -> the hat
+una chaqueta -> A jacket
+el abrigo -> the coat
+la falda -> the skirt
+
+azul -> blue
+verde -> green
+quiero -> want
+marron -> brown
+gris -> gray
+rojo -> red
+
+ese -> that, the, that's
+Este -> this
+comprar -> to buy, buy 
+caro -> expensive
+barato -> cheap, inexpensive, cheaply
+diferente -> different, differently
