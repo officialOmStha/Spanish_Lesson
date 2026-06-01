@@ -6,3 +6,27 @@
 
 3. Yo no vivo en Francia.
 -> I dont live in France.
+
+4. Ella tiene un carro.
+-> She has a car.
+
+5. Tu perro es muy bonito.
+-> Your dog is very preety.
+
+6. Ella tiene un gato.
+-> She has a cat.
+
+7. Mi esposo tiene un gato.
+-> My husband has a cat.
+
+8. El tiene una casa.
+-> He has a house.
+
+9. Mi gato es grande.
+-> My cat is big.
+
+10. Si tengo un harmano y una hermana.
+-> Yes, I have a brother and a sister.
+
+11. Yo tengo un perro.
+-> I have a dog.

@@ -32,3 +32,13 @@ grande -> big, large, greatest
 perfecto -> perfect
 interesante-> interesting
 Tienes -> You have
+Tengo -> I have
+Tambiena -> also
+cosa -> thing
+del -> from the
+
+pero -> but
+Ahora -> now
+Bienvendia -> welcome
+a -> to
+solo -> only

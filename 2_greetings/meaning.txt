@@ -10,6 +10,7 @@ Disculpe -> Excuse me
 hablo -> Speak
 Muy bien -> Very good.
 
+
 Buenos dias -> Good morning
 Buenas noches -> Good Night.
 
