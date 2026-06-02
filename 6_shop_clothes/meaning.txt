@@ -7,6 +7,10 @@ el sombrero -> the hat
 una chaqueta -> A jacket
 el abrigo -> the coat
 la falda -> the skirt
+la cartera -> the purse
+el reloj -> the watch
+el cinturon -> the belt
+el regalo -> the gift
 
 azul -> blue
 verde -> green
@@ -21,3 +25,6 @@ comprar -> to buy, buy
 caro -> expensive
 barato -> cheap, inexpensive, cheaply
 diferente -> different, differently
+demasiado -> too, too much, too long
+comoda -> comfortable, dresser, convient
+favorita -> favorite, favorites
